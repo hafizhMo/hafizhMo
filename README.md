@@ -6,6 +6,6 @@
 - 🎯 2020 Goals: Keep alive
 - 😙 Fun Fact: I Love Dhea Angelia and Her Group
 
-see my portofolio: [link here|website]
+see my portofolio: [link here][website]
 
 [website]: http://hafizhmo.github.io/
