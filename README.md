@@ -6,6 +6,6 @@
 - 🎯 2023 Goals: Keep alive
 - 😙 Fun Fact: I Love design, drama and Dhea Angelia
 
-see my portofolio: [https://www.hafizhmo.com/][website]
+see my portofolio: [link here][website]
 
-[website]: http://hafizhmo.github.io/
+[website]: https://www.hafizhmo.com/
