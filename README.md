@@ -1,11 +1,9 @@
-### Hello World! I'm Hafizh
+Hi, I'm **Hafizh**, a developer, researcher, student, and serial reader.
 
-- 🎒 I'm currently studying Computer Science in Bina Nusantara University @Malang
-- 📘 I'm currently learning any thing has correlations w/ creativity
-- 🤔 I’m looking for help with web-programming
-- 🎯 2023 Goals: Keep alive
-- 😙 Fun Fact: I Love design, drama and Dhea Angelia
+- 🎒 I am currently in my final year of studying Computer Science at Bina Nusantara University @ Malang.
+- 🎓 Recently, I graduated from the Apple Developer Academy program.
+- 😤 Right now, I am studying iOS development more extensively.
 
-see my portofolio: [link here][website]
+To start a collaboration, you can get in touch with me at [hafizh.hizb@gmail.com][mail]
 
-[website]: https://www.hafizhmo.com/
+[mail]: mailto:hafizh.hizb@gmail.com
