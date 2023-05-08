@@ -6,4 +6,6 @@ Hi, I'm **Hafizh**, a developer, researcher, student, and serial reader.
 
 To start a collaboration, you can get in touch with me at [hafizh.hizb@gmail.com][mail]
 
+[comment]: > "Unleashing or upgrading products every 14th, like clockwork!"
+
 [mail]: mailto:hafizh.hizb@gmail.com
