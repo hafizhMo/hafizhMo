@@ -4,6 +4,34 @@ Hi, I'm **Hafizh**, a developer, researcher, student, and serial reader.
 - 🎓 Recently, I graduated from the Apple Developer Academy program.
 - 😤 Right now, I am studying iOS development more extensively.
 
+## iOS App 🍏
+
+#### 1. Apple Developer Academy @ BINUS
+
+🛐 Zikirin
+
+<a href="http://github.com/yudxp/Qaldu-iOS"><img src="http://img.shields.io/badge/Zikirin_Repo-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://apps.apple.com/id/app/zikirin/id6444427443"><img src="http://img.shields.io/badge/Zikirin_Download-655ced?style=social&logo=appstore&color=blue" style="height : auto; margin-left : 10px; margin-right : 10px; color : blue;"/>
+</a>
+
+🦻 Listenr: Here as your ears
+
+<a href="https://github.com/gal-bert/Listenr"><img src="http://img.shields.io/badge/Listenr_Repo-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://apps.apple.com/id/app/listenr-here-as-your-ears/id1631971936"><img src="http://img.shields.io/badge/Listenr_Download-655ced?style=social&logo=appstore&color=blue" style="height : auto; margin-left : 10px; margin-right : 10px; color : blue;"/>
+</a>
+<br>
+ 
+#### 2. A project currently under development
+
+🦻 Konsen: Improve your work performance and concentration
+
+<a href="https://github.com/hafizhmo/konsen-ios"><img src="http://img.shields.io/badge/Konsen_Repo-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+<br>
+
 To start a collaboration, you can get in touch with me at [hafizh.hizb@gmail.com][mail]
 
 [comment]: > "Unleashing or upgrading products every 14th, like clockwork!"
