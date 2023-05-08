@@ -25,7 +25,7 @@ Hi, I'm **Hafizh**, a developer, researcher, student, and serial reader.
  
 #### 2. A project currently under development
 
-🦻 Konsen: Improve your work performance and concentration
+🤓 Konsen: Improve your work performance and concentration
 
 <a href="https://github.com/hafizhmo/konsen-ios"><img src="http://img.shields.io/badge/Konsen_Repo-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
