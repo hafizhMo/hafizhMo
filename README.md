@@ -33,6 +33,8 @@ Helps (medium) hearing impaired learners, by providing real-time speech to text 
 
 <a href="https://github.com/hafizhmo/konsen-ios"><img src="http://img.shields.io/badge/Konsen_Repo-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+<a href="https://testflight.apple.com/join/u9s56PHQ"><img src="http://img.shields.io/badge/Konsen_TestFlight-655ced?style=social&logo=appstore&color=blue" style="height : auto; margin-left : 10px; margin-right : 10px; color : blue;"/>
+</a>
 
 <br>
 
