@@ -1,6 +1,6 @@
 Hi, I'm **Hafizh**, a developer, researcher, student, and serial reader.
 
-- 🎒 I am currently in my final year of studying Computer Science at Bina Nusantara University @ Malang.
+- 🎒 Fresh Graduate of Computer Science at Bina Nusantara University.
 - 🎓 Recently, I graduated from the Apple Developer Academy program.
 - 😤 Right now, I am studying iOS development more extensively.
 
